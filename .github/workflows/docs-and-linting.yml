@@ -1,4 +1,4 @@
-name: Render and Lint Documentation
+Yup w name: Render and Lint Documentation
 
 on:
   pull_request:
